@@ -1,0 +1,8 @@
+$schema: https://azuremlschemas.azureedge.net/latest/workspace.schema.json
+name: Python SKD Test Workspace
+location: germanywestcentral
+display_name: PythonSDK-workspace
+description: A workspace for testing the Python SDK
+tags:
+  purpose: testing
+  team: home
